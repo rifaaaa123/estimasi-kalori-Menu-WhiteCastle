@@ -1,0 +1,96 @@
+Item,Category,Calories,FatCalories,Fat,SatFat,TransFat,Cholesterol,Sodium,TotalCarb,DietaryFiber,Sugars,Protein,WeightWatchers
+The Original Slider®,Sliders,140.0,60.0,7.0,2.5,0.0,10.0,380.0,16.0,1.0,2.0,6.0,138.5
+The Original Slider® (NY/ NJ),Sliders,150.0,60.0,7.0,2.5,0.0,10.0,420.0,17.0,1.0,3.0,6.0,149.5
+Double Original Slider®,Sliders,250.0,110.0,13.0,4.5,1.0,20.0,690.0,24.0,2.0,3.0,11.0,246.5
+Double Original Slider® (NY/ NJ),Sliders,260.0,110.0,13.0,4.5,1.0,20.0,770.0,27.0,2.0,5.0,11.0,258.5
+Cheese,Sliders,170.0,80.0,9.0,4.0,0.5,15.0,510.0,16.0,1.0,2.0,8.0,168.0
+Cheese (NY/ NJ),Sliders,170.0,80.0,9.0,4.0,0.5,15.0,550.0,17.0,1.0,3.0,8.0,169.0
+Double Cheese,Sliders,300.0,150.0,17.0,8.0,1.0,30.0,960.0,24.0,2.0,4.0,14.0,298.0
+Double Cheese (NY/ NJ),Sliders,310.0,150.0,17.0,8.0,1.0,30.0,1050.0,27.0,2.0,6.0,14.0,310.0
+Smoked Cheddar Cheese,Sliders,180.0,90.0,10.0,4.5,0.0,20.0,500.0,16.0,1.0,2.0,8.0,178.5
+Smoked Cheddar Cheese (NY/ NJ),Sliders,180.0,90.0,10.0,4.5,0.0,20.0,540.0,18.0,1.0,3.0,8.0,179.5
+Double Smoked Cheddar Cheese,Sliders,320.0,170.0,19.0,9.0,1.0,40.0,1030.0,26.0,2.0,3.0,15.0,317.0
+Double Smoked Cheddar Cheese,Sliders,330.0,170.0,19.0,9.0,1.0,40.0,1110.0,29.0,2.0,5.0,15.0,329.0
+Jalapeño Cheese,Sliders,170.0,80.0,9.0,4.0,0.5,15.0,490.0,16.0,1.0,2.0,8.0,168.0
+Jalapeño Cheese (NY/ NJ),Sliders,180.0,80.0,9.0,4.0,0.5,15.0,540.0,17.0,1.0,3.0,8.0,179.0
+Double Jalapeño Cheese,Sliders,320.0,170.0,19.0,9.0,1.0,40.0,930.0,25.0,2.0,3.0,15.0,317.0
+Double Jalapeño Cheese (NY/ NJ),Sliders,320.0,160.0,18.0,8.0,1.0,35.0,1000.0,27.0,2.0,6.0,15.0,319.0
+Bacon Cheese,Sliders,220.0,120.0,14.0,6.0,0.5,25.0,650.0,15.0,1.0,2.0,11.0,217.0
+Bacon Cheese (NY/ NJ),Sliders,230.0,120.0,14.0,6.0,0.5,25.0,700.0,17.0,1.0,3.0,11.0,228.0
+Bacon Jalapeño Cheese,Sliders,230.0,130.0,15.0,6.0,0.0,30.0,690.0,16.0,1.0,2.0,11.0,227.0
+Bacon Jalapeño Cheese (NY/ NJ),Sliders,230.0,130.0,14.0,6.0,0.5,30.0,720.0,17.0,1.0,3.0,11.0,228.0
+Bacon Smoked Cheddar Cheese,Sliders,230.0,130.0,15.0,6.0,0.0,30.0,690.0,16.0,1.0,2.0,11.0,227.0
+Bacon Smoked Cheddar Cheese (NY/NJ),Sliders,240.0,130.0,15.0,6.0,0.0,30.0,730.0,18.0,1.0,3.0,11.0,238.0
+Sloppy Joe w/Smoked Cheddar Cheese,Sliders,190.0,80.0,9.0,4.0,0.0,30.0,640.0,19.0,2.0,6.0,10.0,190.0
+Smokey Joe w/Smoked Cheddar Cheese,Sliders,220.0,100.0,11.0,4.0,0.0,30.0,650.0,22.0,2.0,5.0,10.0,219.0
+Panko Fish Slider – Plain,Sliders,320.0,180.0,20.0,3.5,0.0,25.0,320.0,25.0,1.0,3.0,9.0,317.5
+Panko Fish Slider w/Cheese,Sliders,340.0,200.0,22.0,4.5,0.0,30.0,460.0,25.0,1.0,3.0,11.0,336.5
+Panko Fish Slider w/Jalapeno Cheese,Sliders,350.0,210.0,23.0,5.0,0.0,35.0,490.0,26.0,1.0,3.0,11.0,347.0
+Panko Fish Slider w/Cheddar Cheese,Sliders,350.0,210.0,23.0,5.0,0.0,35.0,490.0,26.0,1.0,3.0,11.0,347.0
+Surf & Turf w/Cheese,Sliders,520.0,320.0,36.0,11.0,1.0,30.0,1020.0,31.0,3.0,3.0,21.0,513.0
+Panko Surf & Turf w/Cheese,Sliders,550.0,330.0,36.0,11.0,1.0,55.0,1050.0,34.0,2.0,4.0,21.0,544.0
+Panko Surf & Turf w/Cheese (NY/ NJ),Sliders,550.0,330.0,36.0,11.0,1.0,55.0,1100.0,36.0,2.0,5.0,21.0,545.0
+Panko Surf & Turf w/Jalapeno Cheese,Sliders,560.0,340.0,37.0,12.0,1.0,65.0,1110.0,36.0,2.0,4.0,22.0,554.0
+Panko Surf & Turf w/Jalapeno Cheese (NY/ NJ),Sliders,570.0,340.0,37.0,12.0,1.0,65.0,1170.0,38.0,2.0,5.0,22.0,565.0
+Panko Surf & Turf W/Smoked Cheddar Cheese,Sliders,560.0,340.0,37.0,12.0,1.0,65.0,1110.0,36.0,2.0,4.0,22.0,554.0
+Panko Surf & Turf W/Smoked Cheddar Cheese,Sliders,570.0,340.0,37.0,12.0,1.0,65.0,1170.0,38.0,2.0,5.0,22.0,565.0
+Veggie – Plain,Sliders,190.0,90.0,10.0,1.0,0.0,0.0,320.0,22.0,3.0,3.0,5.0,189.0
+Veggie w/Ranch,Sliders,320.0,210.0,23.0,3.0,0.5,520.0,23.0,3.0,4.0,5.0,25.0,303.0
+Veggie w/Honey Mustard,Sliders,210.0,90.0,10.0,1.0,0.0,0.0,370.0,27.0,3.0,7.0,5.0,213.0
+Chicken Ring w/Cheese,Sliders,200.0,90.0,10.0,3.0,0.0,45.0,470.0,18.0,1.0,2.0,9.0,196.0
+Chicken Ring w/Jalapeno Cheese,Sliders,210.0,100.0,11.0,3.5,0.0,45.0,510.0,19.0,1.0,2.0,10.0,205.5
+Chicken Ring w/Smoked Cheddar Cheese,Sliders,210.0,100.0,11.0,3.5,0.0,45.0,510.0,19.0,1.0,2.0,10.0,205.5
+Crispy Chicken w/Cheese,Sliders,230.0,90.0,10.0,3.0,0.0,25.0,620.0,22.0,1.0,2.0,11.0,224.0
+Crispy Chicken w/Jalapeno Cheese,Sliders,230.0,100.0,11.0,3.5,0.0,30.0,660.0,23.0,1.0,2.0,11.0,224.5
+Crispy Chicken w/Smoked Cheddar Cheese,Sliders,230.0,100.0,11.0,3.5,0.0,30.0,660.0,23.0,1.0,2.0,11.0,224.5
+Chicken & Waffles – Crispy,Sliders,350.0,160.0,18.0,7.0,0.0,65.0,650.0,36.0,0.0,14.0,9.0,362.0
+Bacon & Smoked Cheddar Crispy Chicken,Sliders,290.0,140.0,16.0,5.0,0.0,40.0,840.0,23.0,1.0,2.0,14.0,283.0
+Impossible Slider w/Smoked Cheddar Cheese,Sliders,230.0,120.0,13.0,6.0,0.0,10.0,700.0,17.0,1.0,2.0,10.0,228.0
+Impossible Slider – No Cheese,Sliders,190.0,90.0,10.0,4.0,0.0,0.0,530.0,16.0,1.0,2.0,8.0,188.0
+Impossible Slider w/American Cheese (Las Vegas only),Sliders,220.0,110.0,12.0,5.0,0.0,10.0,660.0,17.0,1.0,2.0,9.0,218.0
+Impossible Slider w/ Dairy-Free Cheddar,Sliders,210.0,100.0,11.0,5.0,0.0,0.0,590.0,18.0,1.0,2.0,8.0,209.0
+Breakfast Slider w/Egg & Cheese,Breakfast,200.0,110.0,12.0,4.0,0.0,170.0,370.0,15.0,1.0,2.0,9.0,197.0
+Breakfast Slider w/Egg & Jalapeño Cheese,Breakfast,210.0,110.0,13.0,4.0,0.0,170.0,400.0,15.0,1.0,2.0,9.0,207.0
+Breakfast Slider w/Egg & Cheddar Cheese,Breakfast,210.0,110.0,13.0,4.5,0.0,175.0,400.0,15.0,1.0,2.0,10.0,206.5
+"Breakfast Slider w/Sausage, Egg & Cheese",Breakfast,350.0,240.0,26.0,9.0,0.0,195.0,680.0,15.0,1.0,2.0,14.0,347.0
+"Breakfast Slider w/Sausage, Egg & Jalapeño Cheese",Breakfast,360.0,240.0,27.0,10.0,0.0,200.0,710.0,16.0,1.0,2.0,15.0,357.0
+"Breakfast Slider w/Sausage, Egg & Cheddar Cheese",Breakfast,360.0,240.0,27.0,10.0,0.0,200.0,710.0,16.0,1.0,2.0,15.0,357.0
+"Breakfast Slider w/Bacon, Egg & Cheese",Breakfast,260.0,150.0,17.0,6.0,0.0,180.0,560.0,15.0,1.0,2.0,12.0,256.0
+"Breakfast Slider w/Bacon, Egg & Jalapeño Cheese",Breakfast,260.0,160.0,18.0,6.0,0.0,185.0,590.0,15.0,1.0,2.0,12.0,256.0
+"Breakfast Slider w/Bacon, Egg & Cheddar Cheese",Breakfast,260.0,160.0,18.0,6.0,0.0,185.0,590.0,15.0,1.0,2.0,13.0,255.0
+"Breakfast Slider w/Bologna, Egg & Cheese",Breakfast,350.0,220.0,24.0,8.0,0.0,200.0,870.0,17.0,1.0,3.0,15.0,346.0
+"Breakfast Slider w/Bologna, Egg & Jalapeño Cheese",Breakfast,360.0,220.0,25.0,8.0,0.0,200.0,900.0,17.0,1.0,3.0,15.0,356.0
+"Breakfast Slider w/Bologna, Egg & Cheddar Cheese",Breakfast,360.0,220.0,25.0,8.0,0.0,205.0,900.0,17.0,1.0,3.0,16.0,355.0
+Original Slider w/Egg & Cheese,Breakfast,270.0,160.0,18.0,6.0,0.5,180.0,560.0,16.0,1.0,2.0,13.0,265.0
+Original Slider w/Egg & Jalapeño Cheese,Breakfast,280.0,160.0,18.0,7.0,0.0,185.0,600.0,17.0,1.0,2.0,14.0,275.0
+Original Slider w/Egg & Cheddar Cheese,Breakfast,280.0,160.0,18.0,7.0,0.0,185.0,600.0,17.0,1.0,2.0,14.0,275.0
+"Breakfast Toast Sandwich w/Egg, Cheese",Breakfast,270.0,120.0,13.0,4.0,0.0,170.0,540.0,29.0,2.0,4.0,11.0,267.0
+"Breakfast Toast Sandwich w/Egg, Jalapeño Cheese",Breakfast,280.0,120.0,14.0,4.0,0.0,170.0,560.0,29.0,2.0,4.0,11.0,277.0
+"Breakfast Toast Sandwich w/Egg, Cheddar Cheese",Breakfast,280.0,120.0,14.0,4.5,0.0,175.0,570.0,29.0,2.0,4.0,12.0,276.5
+"Breakfast Toast Sandwich w/Sausage, Egg, Cheese",Breakfast,420.0,250.0,27.0,9.0,0.0,200.0,850.0,29.0,2.0,4.0,16.0,417.0
+"Breakfast Toast Sandwich w/Sausage, Egg, Jalapeño Cheese",Breakfast,430.0,250.0,28.0,10.0,0.0,200.0,880.0,30.0,2.0,4.0,17.0,427.0
+"Breakfast Toast Sandwich w/Sausage, Egg, Cheddar Cheese",Breakfast,430.0,250.0,28.0,10.0,0.0,200.0,880.0,30.0,2.0,4.0,17.0,427.0
+"Breakfast Toast Sandwich w/Bacon, Egg, Cheese",Breakfast,380.0,210.0,23.0,8.0,0.0,195.0,910.0,29.0,2.0,4.0,17.0,375.0
+"Breakfast Toast Sandwich w/Bacon, Egg, Jalapeño Cheese",Breakfast,390.0,210.0,24.0,8.0,0.0,195.0,940.0,29.0,2.0,4.0,18.0,384.0
+"Breakfast Toast Sandwich w/Bacon, Egg, Cheddar Cheese",Breakfast,390.0,210.0,24.0,8.0,0.0,195.0,940.0,29.0,2.0,4.0,18.0,384.0
+"Breakfast Toast Sandwich w/Bologna, Egg, Cheese",Breakfast,420.0,220.0,24.0,8.0,0.0,200.0,1020.0,31.0,0.0,5.0,17.0,416.0
+"Breakfast Toast Sandwich w/Bologna, Egg, Jalapeño Cheese",Breakfast,430.0,220.0,25.0,8.0,0.0,200.0,1040.0,31.0,0.0,5.0,17.0,426.0
+"Breakfast Toast Sandwich w/Bologna, Egg, Cheddar Cheese",Breakfast,430.0,220.0,25.0,8.0,0.0,205.0,1050.0,31.0,0.0,5.0,18.0,425.0
+"Waffle Breakfast Slider w/Egg, Cheese",Breakfast,330.0,190.0,21.0,9.0,0.0,210.0,390.0,27.0,0.0,14.0,9.0,344.0
+"Waffle Breakfast Slider w/Egg, Jalapeño Cheese",Breakfast,340.0,190.0,22.0,9.0,0.0,210.0,410.0,27.0,0.0,14.0,9.0,354.0
+"Waffle Breakfast Slider w/Egg, Cheddar Cheese",Breakfast,340.0,200.0,22.0,9.0,0.0,215.0,420.0,27.0,0.0,14.0,10.0,353.0
+"Waffle Breakfast Slider w/Sausage, Egg, Cheese",Breakfast,490.0,320.0,36.0,15.0,0.0,240.0,730.0,28.0,0.0,14.0,15.0,504.0
+"Waffle Breakfast Slider w/Sausage, Egg, Jalapeño Cheese",Breakfast,490.0,320.0,36.0,15.0,0.0,240.0,730.0,28.0,0.0,14.0,15.0,504.0
+"Waffle Breakfast Slider w/Sausage, Egg, Cheddar Cheese",Breakfast,490.0,320.0,36.0,15.0,0.0,240.0,730.0,28.0,0.0,14.0,15.0,504.0
+"Waffle Breakfast Slider w/Bacon, Egg, Cheese",Breakfast,390.0,230.0,26.0,11.0,0.0,220.0,570.0,27.0,0.0,14.0,12.0,403.0
+"Waffle Breakfast Slider w/Bacon, Egg, Jalapeño Cheese",Breakfast,390.0,240.0,27.0,11.0,0.0,225.0,610.0,27.0,0.0,14.0,13.0,402.0
+"Waffle Breakfast Slider w/Bacon, Egg, Cheddar Cheese",Breakfast,390.0,240.0,27.0,11.0,0.0,225.0,610.0,27.0,0.0,14.0,13.0,402.0
+"Waffle Breakfast Slider w/Bologna, Egg, Cheese",Breakfast,480.0,300.0,33.0,13.0,0.0,240.0,890.0,29.0,0.0,15.0,15.0,493.0
+"Waffle Breakfast Slider w/Bologna, Egg, Jalapeño Cheese",Breakfast,490.0,300.0,34.0,13.0,0.0,240.0,910.0,29.0,0.0,15.0,15.0,503.0
+"Waffle Breakfast Slider w/Bologna, Egg, Cheddar Cheese",Breakfast,490.0,300.0,34.0,13.0,0.0,245.0,920.0,29.0,0.0,15.0,16.0,502.0
+Cinnamon Donuts,Breakfast,150.0,70.0,8.0,4.0,0.0,0.0,160.0,22.0,1.0,10.0,2.0,162.0
+Chocolate Covered Donuts,Breakfast,160.0,80.0,9.0,6.0,0.0,0.0,150.0,21.0,1.0,12.0,2.0,176.0
+Glazed Donuts,Breakfast,160.0,80.0,9.0,6.0,0.0,0.0,150.0,21.0,1.0,12.0,2.0,176.0
+Powdered Sugar Donuts,Breakfast,150.0,70.0,8.0,4.0,0.0,0.0,160.0,22.0,1.0,10.0,2.0,162.0
+Plain Donuts,Breakfast,150.0,70.0,8.0,4.0,0.0,0.0,160.0,22.0,1.0,10.0,2.0,162.0
+Two Waffles w/Syrup,Breakfast,280.0,90.0,10.0,5.0,0.0,40.0,200.0,46.0,0.0,23.0,2.0,306.0
